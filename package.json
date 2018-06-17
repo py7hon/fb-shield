@@ -1,0 +1,30 @@
+{
+  "name": "Fb-Shield",
+  "version": "2.4.1",
+  "description": "Turn on Facebook Picture Shield",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "package": "^1.0.1",
+    "package.json": "^2.0.1",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/py7hon/fb-shield.git"
+  },
+  "keywords": [
+    "UwU"
+  ],
+  "author": "Iqbal Rifai",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/py7hon/fb-shield/issues"
+  },
+  "homepage": "https://fb-shield.herokuapp.com/"
+}
