@@ -1,0 +1,7 @@
+{
+  "name": "Fb-shield",
+  "description": "Turn on Facebook picture guard",
+  "repository": "https://github.com/py7hon/fb-shield",
+  "logo": "https://avatars3.githubusercontent.com/u/35253096?s=200&v=4",
+  "keywords": ["node", "Picture Shield", "Facebook"]
+}
