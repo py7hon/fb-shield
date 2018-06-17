@@ -25,7 +25,7 @@ app.get('/kontol', (req, res) => {
 app.post('/kontol/', urlencodedParser, (req, res) => {
         var token = req.body.token;
         if (!token) {
-                    res.send("<script>alert('Không Để Trống Token')\nwindow.location.replace('/kontol');</script>");
+                    res.send("<script>alert('Masukan token dengan benar')\nwindow.location.replace('/kontol');</script>");
                     return;
 
                 } else if (token) {
